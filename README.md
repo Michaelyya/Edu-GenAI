@@ -1,0 +1,2 @@
+# Edu-GenAI
+CREATE LAB RESEARCH
